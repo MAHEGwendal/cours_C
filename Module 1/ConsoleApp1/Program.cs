@@ -1,4 +1,6 @@
-﻿// Console.WriteLine permet d'afficher du texte dans la console en faisant un retour à la ligne
+﻿Console.WriteLine("--------------Module 1---------------");
+
+// Console.WriteLine permet d'afficher du texte dans la console en faisant un retour à la ligne
 Console.WriteLine("--------------WriteLine()---------------");
 
 Console.WriteLine("Ligne 1\nLigne 2"); //Le texte doit toujours être dans "", \n pour revenir à la ligne
